@@ -300,6 +300,9 @@
     "Mind": {
       "url": "https://theme-park.dev/css/community-theme-options/mind.css?sha=30591394da840c870602f72f0b6d7ad6"
     },
+    "Neobrutalist": {
+      "url": "https://theme-park.dev/css/theme-options/neobrutalist.css?sha=877bd7c8e850d7d56739c2c023dfbf29"
+    },
     "Nord": {
       "url": "https://theme-park.dev/css/theme-options/nord.css?sha=5226f437407d52580589f86881be883c"
     },
@@ -945,6 +948,9 @@
     },
     "Maroon": {
       "url": "https://theme-park.dev/css/theme-options/maroon.css?sha=aba3461aac201e257cf5cea12d9f6c5c"
+    },
+    "Neobrutalist": {
+      "url": "https://theme-park.dev/css/theme-options/neobrutalist.css?sha=877bd7c8e850d7d56739c2c023dfbf29"
     },
     "Nord": {
       "url": "https://theme-park.dev/css/theme-options/nord.css?sha=5226f437407d52580589f86881be883c"
